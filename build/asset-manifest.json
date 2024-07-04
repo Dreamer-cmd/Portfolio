@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a36c5ec7.css",
+    "main.js": "/static/js/main.c17cca6f.js",
+    "static/media/about-img.webp": "/static/media/about-img.62b47e7f183d4b4e9feb.62b47e7f183d4b4e9feb.webp",
+    "static/media/hero.webp": "/static/media/hero.77da1b42a746bc28b9e8.webp",
+    "static/media/waving.png": "/static/media/waving.1bae5fcfb51082b5c2b4.1bae5fcfb51082b5c2b4.png",
+    "static/media/working-emoji.png": "/static/media/working-emoji.c5325f52b5be329995a5.c5325f52b5be329995a5.png",
+    "static/media/text2.svg": "/static/media/text2.3d5aa6ba2d0632bb4e0572631c3f9dc2.b8740d49274c8f3886988ed9a81d9ab9.svg",
+    "index.html": "/index.html",
+    "static/media/brand-github.svg": "/static/media/brand-github.777535d44e0cbb9b3d484a8a48f6e50f.svg",
+    "static/media/location.svg": "/static/media/location.926f5b2f684d21a613ab59b42b16f704.svg",
+    "static/media/mail.svg": "/static/media/mail.96483a7e30f5206bef938641b38450c5.svg",
+    "static/media/telegram.svg": "/static/media/telegram.e148b36c8b2a63285488675223473c64.svg",
+    "static/media/telegram_black.svg": "/static/media/telegram_black.c235f6c57c2122692a15ac0002841175.svg",
+    "static/media/menuIcon.svg": "/static/media/menuIcon.7a4f10d709df755a1bfdb7b01ee73325.svg",
+    "static/media/X.svg": "/static/media/X.c354a846226a234154ccc6835ef18c9a.svg",
+    "main.a36c5ec7.css.map": "/static/css/main.a36c5ec7.css.map",
+    "main.c17cca6f.js.map": "/static/js/main.c17cca6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36c5ec7.css",
+    "static/js/main.c17cca6f.js"
+  ]
+}
