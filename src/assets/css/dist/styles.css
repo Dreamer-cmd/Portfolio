@@ -14,6 +14,7 @@
     background-color: white;
     font-family: "Poppins", sans-serif;
     position: relative;
+    /* overflow-x: hidden; */
   }
   
   .container {
@@ -143,6 +144,7 @@
   @media (max-width: 400px) {
     nav {
       padding: 25px 30px 25px 30px;
+      /* padding: 25px 15px; */
     }
   }
   nav ul {
@@ -558,7 +560,8 @@
   }
   
   .project {
-    background-color: #f9f9f9;
+    /* background-color: #f9f9f9; */
+    background-color: #fff;
     padding: 15rem 0;
   }
   @media (max-width: 1020px) {
@@ -600,11 +603,11 @@
   .projects-grid .pro {
     display: flex;
     background-color: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
     border-radius: 1.7rem;
   }
   .projects-grid .pro__1 {
-    height: 40rem;
+    /* height: 40rem; */
     flex-direction: row;
     padding: 2rem;
     gap: 8rem;
@@ -694,7 +697,7 @@
     color: black !important;
     font-weight: 600 !important;
     background-color: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
     padding: 1rem 1.3rem;
     font-family: "Mulish", sans-serif !important;
   }
