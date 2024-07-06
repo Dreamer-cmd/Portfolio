@@ -23,7 +23,7 @@ function ProBox (
         </div>
         <div className="pro__text">
           <img src={icon} alt="icon" />
-          <h3>{title}</h3>
+          <h3>{title} {icon}</h3>
           <p>{description}</p>
           <div className="stack">
             <p>{techno1}</p>

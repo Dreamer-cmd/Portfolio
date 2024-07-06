@@ -1,6 +1,8 @@
 import ProBox from "./ProBox";
 import CarRental from "../media/img_projects/car-rental-full.webp";
-import Gym from "../media/img_projects/full-gym.jpg";
+import Gym from "../media/img_projects/full-gym.png";
+import Blum from "../media/img_projects/blum.jpg";
+
 function Projects() {
     return (
         <>
@@ -25,7 +27,7 @@ function Projects() {
                         />
                         <ProBox
                             title="Gym"
-                            date="(January 2023)"
+                            date="(August 2024)"
                             img={Gym}
                             description="A gym website is a comprehensive resource for fitness information, class schedules, membership options, and tools to help users achieve their fitness goals."
                             techno1="React"
@@ -34,6 +36,18 @@ function Projects() {
                             // demo=""
                             scrollY="-89%"
                             icon="🏋️"
+                        />
+                        <ProBox
+                            title="Blum"
+                            date="(June 2024)"
+                            img={Blum}
+                            description="A Telegram automation program for playing the game Blum. It supports multiple proxy configurations and offers flexible settings for customized gameplay automation."
+                            techno1="Pyrogram"
+                            techno2="Aiohttp"
+                            code="https://github.com/Creator-Art-Life/Blum"
+                            // demo="None"
+                            scrollY="-89%"
+                            icon="🫐"
                         />
                         </div>
                     </div>
